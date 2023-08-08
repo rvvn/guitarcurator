@@ -1,0 +1,4 @@
+[
+    { "id": 1, "name": "Guitar 1", "image": "images/guitar1.jpg", "price": "$1000" },
+    { "id": 2, "name": "Guitar 2", "image": "images/guitar2.jpg", "price": "$1200" }
+]
